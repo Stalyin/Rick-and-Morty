@@ -23,7 +23,7 @@ h1{
   
 
 body {
-    background-image: url(../public/images/fondo.avif);
+    background-image: url(/images/fondo.avif);
 }
 
 .header-container {
